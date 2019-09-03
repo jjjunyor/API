@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApp</name>
+    </assembly>
+    <members>
+        <member name="M:WebApp.Repositories.ProdutoRepository.GetProdutos">
+            <summary>
+            Buscar os Produtos
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
